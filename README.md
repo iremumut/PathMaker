@@ -36,7 +36,7 @@ but operates if the path <path_expression> does not exist.
 A command can be a basic command (“make” or “go”) but it can also be a block. A block is a list of lines of code enclosed in { } set brackets. Blocks may also be nested in one another.
 End of line character: Only “make” and “go” commands require an end of line character and it is ‘;’ (semi-colon)
 ----------------
-###Keywords: 
+### Keywords: 
 Keywords are case sensitive and all are lowercase. They are:
 make, go, if, ifnot
 Symbols: < , > , { , } , / , *
