@@ -11,7 +11,7 @@ Example: <*/*/mydirectory> indicates that one should move up (to parent) twice a
 - Operator / cannot be used at the beginning or the end of any path. So </hi/there> is not allowed. Neither is <hi/there/> allowed.
 - Blanks in a path expression are ignored (unless they exist in a directory name (which is not allowed)) so < * /* / mydirectory> is OK.
 ---------------------------
- **Variables:** There are no variables in the language.
+**Variables:** There are no variables in the language.
 **Basic Commands:** The only two basic commands are “make” and “go”. Make has the form:
 make <myDirectoryPath>;
 It simply creates the directories in the myDirectoryPath. If the path already exists it does nothing (but gives a warning message). If the path partially exists, it completes the path.
