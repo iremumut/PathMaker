@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1592004384 source:c:\users\acer\desktop\school stuff\c\proje2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	<unistd.h>
+	<stdbool.h>
+	<ctype.h>
+
+1592009737 source:c:\users\acer\desktop\proje 2\proje2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	<unistd.h>
+	<stdbool.h>
+	<ctype.h>
+
